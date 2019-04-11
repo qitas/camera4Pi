@@ -18,9 +18,9 @@
 
 ### [OV5647](https://www.ovt.com/sensors/OV5648) 
 
-第一代树莓派500万像素摄像头使用的芯片，自2012年推出以来，500万像素的相机模块始终采用定制的OV5647芯片。
+第一代树莓派500万像素摄像头使用的芯片，自2012年推出以来树莓派相机模块始终采用该定制的OV5647芯片
 
-- CMOS尺寸：1/4英寸
+- CMOS尺寸：1/4″
 - 光圈（F）：2.0
 - 焦距（Focal Length）：6mm
 - 对角视场角（FOV）：60.6度
@@ -29,14 +29,19 @@
 
 ### [IMX219](https://www.sony-semicon.co.jp/products_en/new_pro/april_2014/imx219_e.html) 
 
-Raspberry Pi Camera v2采用8百万像素索尼IMX219，定焦镜头，3280 x 2464像素静态图片和30FPS 1080P的视频，支持1080p30, 720p60 and 640x480p60/90摄像功能。
+第二代树莓派摄像头（Raspberry Pi Camera v2）采用800万像素索尼IMX219。
 
-- CCD尺寸：1/4英寸
+背照式CMOS图像传感器
+
+- CMOS尺寸：1/4″
+- Pixel Size: 1.12 x 1.12 um
 - 光圈（F）：2.0
 - 焦距（Focal Length）：3.04mm
-- 视场角（FOV）：73.8度
-- 静态图片分辨率为3280 × 2464
+- 视场角（FOV）：73.8
+- 静态图片分辨率：3280 × 2464
 - 尺寸：25mm × 24mm × 9mm
+
+video：1080p30、720p60、640x480p90
 
 ### 锻造最美之器
 
