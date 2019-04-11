@@ -1,6 +1,6 @@
 ﻿# [camera4Pi](https://github.com/Qitas/camera4Pi) 
 #### qitas@qitas.cn
-## [简介](https://github.com/Qitas/OmniVision/wiki) 
+## [简介](https://github.com/Qitas/camera4Pi/wiki) 
 
 感光元件是数码相机的核心，常用的有两种：一种是CCD（电荷耦合）元件；另一种是CMOS（互补金属氧化物半导体）器件
 
